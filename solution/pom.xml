@@ -18,6 +18,10 @@
     </properties>
 
     <developers>
+    	<developer>
+            <id>yabrams</id>
+            <name>Yaron Abrams</name>
+        </developer>
         <developer>
             <name>Amit Tal</name>
             <email>amitt03@gmail.com</email>
